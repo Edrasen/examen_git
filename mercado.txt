@@ -5,6 +5,10 @@ platano
 fresa
 kiwi
 mandarina
+naranja
+uva
+cereza
+mora
 
 vegetales:
 tomate
