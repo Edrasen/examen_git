@@ -17,6 +17,10 @@ rabano
 pepino
 zanahoria
 apio
+calabaza
+cebolla
+ajo
+tamal
 
 verdura:
 ejote
